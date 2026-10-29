@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(#0d2e28, #348173);
+  color: #eb8f8f;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.1rem;
+  text-align: center;
+}
+h1 {
+  padding: 21px;
+  font-size: 3em;
+}
+p {
+  padding: 10px 21px;
+  font-size: 1.7em;
+}
